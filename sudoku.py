@@ -88,4 +88,4 @@ if not find_empty(board):
     print("\n\nSolved board:\n\n")
     print_board(board)
 else:
-    print("\n\t\t\tError : Board imported cannnot be solved with sudoku rules. Please enter a correct Solvable Board :)\n\n")
+    print("\n\t\t\tError : Board imported cannnot be solved with sudoku rules. Please enter a correct Solvable Board to continue :)\n\n")
